@@ -47,7 +47,7 @@ cd nom-du-depot
 # Créateurs du jeu :
 
 Aryles
-# Hamidou
+Hamidou
 # Oscar
 # Issa
 
