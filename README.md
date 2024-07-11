@@ -49,7 +49,7 @@ cd nom-du-depot
 Aryles
 Hamidou
 Oscar
-# Issa
+Issa
 
 
 
