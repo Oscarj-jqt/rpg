@@ -40,4 +40,16 @@ Clonez ce dépôt sur votre machine locale :
 git clone https://github.com/votre-utilisateur/nom-du-depot.git
 cd nom-du-depot
 
+```
+
+# Crédits
+
+# Créateurs du jeu :
+
+# Aryles
+# Hamidou
+# Oscar
+# Issa
+
+
 
