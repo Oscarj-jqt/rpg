@@ -11,20 +11,6 @@ Bienvenue dans le projet RPG en Python ! Ce jeu vous plonge dans une aventure é
 - [Contribuer](#contribuer)
 - [Crédits](#crédits)
 
-- 
-
-## Prérequis
-
-Assurez-vous d'avoir Python 3.x installé sur votre machine. Vous pouvez le télécharger [ici](https://www.python.org/downloads/).
-
-## Installation
-
-Clonez ce dépôt sur votre machine locale :
-
-```bash
-git clone https://github.com/votre-utilisateur/nom-du-depot.git
-cd nom-du-depot
-
 # Fonctionnalités
 
 # Création de personnage :
@@ -41,4 +27,17 @@ cd nom-du-depot
 # Inventaire :
 # Collectez et utilisez des objets pour améliorer vos statistiques
 # et survivre aux combats.
+
+## Prérequis
+
+Assurez-vous d'avoir Python 3.x installé sur votre machine. Vous pouvez le télécharger [ici](https://www.python.org/downloads/).
+
+## Installation
+
+Clonez ce dépôt sur votre machine locale :
+
+```bash
+git clone https://github.com/votre-utilisateur/nom-du-depot.git
+cd nom-du-depot
+
 
