@@ -22,7 +22,7 @@ Déplacez-vous dans la forêt, explorez différentes zones,
 et trouvez des objets utiles.
 
 # Combats :
-# Affrontez des monstres et un boss final avec un système de combat au tour par tour.
+Affrontez des monstres et un boss final avec un système de combat au tour par tour.
 
 # Inventaire :
 # Collectez et utilisez des objets pour améliorer vos statistiques
