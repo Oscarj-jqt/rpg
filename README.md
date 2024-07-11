@@ -14,8 +14,8 @@ Bienvenue dans le projet RPG en Python ! Ce jeu vous plonge dans une aventure é
 # Fonctionnalités
 
 # Création de personnage :
-# Choisissez entre trois classes de personnages (Tank, Éclaireur, Sniper),
-# chacune avec ses propres statistiques.
+Choisissez entre trois classes de personnages (Tank, Éclaireur, Sniper),
+chacune avec ses propres statistiques.
 
 # Exploration :
 # Déplacez-vous dans la forêt, explorez différentes zones,
