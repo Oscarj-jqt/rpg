@@ -18,8 +18,8 @@ Choisissez entre trois classes de personnages (Tank, Éclaireur, Sniper),
 chacune avec ses propres statistiques.
 
 # Exploration :
-# Déplacez-vous dans la forêt, explorez différentes zones,
-# et trouvez des objets utiles.
+Déplacez-vous dans la forêt, explorez différentes zones,
+et trouvez des objets utiles.
 
 # Combats :
 # Affrontez des monstres et un boss final avec un système de combat au tour par tour.
