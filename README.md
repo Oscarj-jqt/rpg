@@ -25,8 +25,8 @@ et trouvez des objets utiles.
 Affrontez des monstres et un boss final avec un système de combat au tour par tour.
 
 # Inventaire :
-# Collectez et utilisez des objets pour améliorer vos statistiques
-# et survivre aux combats.
+Collectez et utilisez des objets pour améliorer vos statistiques
+et survivre aux combats.
 
 ## Prérequis
 
